@@ -4,10 +4,12 @@
 	* Pass: 1
 	* Fail: 1
 	* Not executed: 0
-	* Suspended: 0
-	* Total: 2
+	* Suspended: 1
+	* Total: 3
 ## Details
 1. 10/16/21 15:15:15
+	* Suspended
+2. 10/16/21 15:15:15
 	* Fail
-2. 10/15/21 15:15:15
+3. 10/15/21 15:15:15
 	* Pass
