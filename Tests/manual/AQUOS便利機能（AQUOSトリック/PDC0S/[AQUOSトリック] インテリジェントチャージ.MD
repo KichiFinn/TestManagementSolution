@@ -11,9 +11,9 @@
 ## Post-conditions
 * N/A
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 10/16/21 15:15:15
+* 10/17/21 15:15:15
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Suspended
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -26,4 +26,4 @@
 	* Actual Results
 		* "Pause function" is not found when testing.
 	* Pass / Fail / Not executed / Suspended
-		* Suspended
+		* Pass
